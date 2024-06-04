@@ -1,7 +1,7 @@
 # Personal-Travel-Tracker
 
 ## Overview
-The Country Visited Tracker is a personal web application I built to help keep track of the countries I've visited and share my travel experiences with friends. The app allows users to log in, add countries to their visited list, and view other users' visited countries. The application leverages a PostgreSQL database to store user and country information and is built using Express.js for the backend and EJS for templating.
+The Personal Travel Tracker is a personal web application I built to help keep track of the countries I've visited and share my travel experiences with friends. The app allows users to log in, add countries to their visited list, and view other users' visited countries. The application leverages a PostgreSQL database to store user and country information and is built using Express.js for the backend and EJS for templating.
 
 ## Key Features
 
